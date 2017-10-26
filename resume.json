@@ -1,0 +1,106 @@
+{
+  "basics": {
+    "name": "Christopher Ryan Gorman",
+    "label": "Software Engineer",
+    "picture": "",
+    "email": "jobs@christophergorman.net",
+    "phone": "(315) 749-3961",
+    "website": "https://christophergorman.net",
+    "summary": ".NET, C# Full Stack engineer with a passion for development and thirst for learning. Excels at picking up new concepts and entire languages rapidly. Works well with integration of different systems and languages, automation, network interaction, testing and writing documentation.",
+    "location": {
+      "address": "966 St Andrews Ln, Lower Level",
+      "postalCode": "CO 80027",
+      "city": "Louisville",
+      "countryCode": "US",
+      "region": "Colorado"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "CRGorman",
+        "url": "https://linkedin.com/in/CRGorman"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "BlndSpt",
+      "position": "Software Developer",
+      "website": "http://blndspt.com/",
+      "startDate": "2017-8-15",
+      "endDate": "2017-10-27",
+      "summary": "Produce an API using .NET Standard (API), core (testing) and 4.6.1 (graphics) for interfacing a mobile application (developed outside) with Sabre. Work with AWS to produce the API gateway and store files. Use xunit, log4net, Moq and NCrunch for testing with 95% coverage. Client: Hawaiian Airlines",
+      "highlights": [
+        "Something"
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Limit Break Radio",
+      "position": "Website Programmer/Administrator",
+      "website": "http://limitbreakradio.com/",
+      "startDate": "2007-02-01",
+      "endDate": "2011-02-01",
+      "summary": "Work with hosts and related staff to build a custom CMS, forum and gallery for the site in PHP with a MySQL background. Resolve bugs, downtime and related issues. Collect data into custom tracking reports and present it in an effective way, done in PERL. Also work with staff to produce the content as well as work with technical issues.",
+      "highlights": [
+        "Something"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "ITT Technical Institute",
+      "area": "Software Applications and Programming",
+      "studyType": "Associate of Occupational Studies",
+      "startDate": "2006-06-01",
+      "endDate": "2008-06-01",
+      "gpa": "3.78",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "API Development",
+      "level": "Intermediate",
+      "keywords": []
+    },
+    {
+      "name": "Unit Testing",
+      "level": "Intermediate",
+      "keywords": []
+    },
+    {
+      "name": "Interoperability",
+      "level": "Intermediate",
+      "keywords": []
+    },
+    {
+      "name": "Objectif Lune Planetpress",
+      "level": "Master",
+      "keywords": []
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Photography",
+      "keywords": [
+        "Portraits"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "name": "Bob Smolarek",
+      "reference": "Chris Gorman reported to me as a contractor over the past 7 months (Feb-Sep 2016). During that time, I observed him not only excelling at his primary job responsibility, application support, but also take on several other tasks not expected of him. Of note, he was asked to take a look at an application that was running slowly. There was virtually no documentation on the application and Chris took it upon himself to review the code and solve the performance problem. Along the way, he also recommended several UI improvements to help users better navigate the application. I was very impressed at how quickly Chris found and solved the issue when other members of the team had failed. Chris has a great attention to detail, it not hesitant to accept any task assigned, and can pick up new technologies very quickly. I would highly recommend him for any technical role for which he applies."
+    }
+  ]
+}
